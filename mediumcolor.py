@@ -38,11 +38,7 @@ def compute_average_image_color():
         return round(r_total / count), round(g_total / count), round(b_total / count)
 
 
-def main():
+if __name__ == '__main__':
     for i in range(10):
         average_color = compute_average_image_color()
         print(average_color)
-
-
-if __name__ == '__main__':
-    print('ok')
