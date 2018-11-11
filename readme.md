@@ -10,8 +10,8 @@ sviatoslav.pereverziev@gmail.com
 ***
 Connection diagram:
 ![connection of the RGB LED tape](https://cdn-learn.adafruit.com/assets/assets/000/002/692/medium800/led_strips_ledstripfet.gif?1448059609)
+
 [You can read about the connection here.](https://learn.adafruit.com/rgb-led-strips/usage)
-***
 **Installation**
 To install is with pip:
 ```
