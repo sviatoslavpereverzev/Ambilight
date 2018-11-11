@@ -1,7 +1,5 @@
 This is my version of Ambilight backlight. Works in tandem with Arduino and RGB lightning.
-***
 If you know how I can improve this program, please write me about this in my mail:
-***
 sviatoslav.pereverziev@gmail.com
 ***
 **To connect the RGB LED tape you need:**
